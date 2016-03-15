@@ -10,12 +10,11 @@
     <script type="text/javascript" src="js/main.js"></script>
     <title>Soundboard</title>
     <script src="script/soundmanager2.js"></script>
-    <script>
+    <script type="text/javascript" src="js/360player.js"></script>
+    <script type="text/javascript">
         soundManager.setup({
-            url: '/swf',
-            flashVersion: 8,
-            onready: function() {
-            }
+            // path to directory containing SM2 SWF
+            url: '/swf/'
         });
     </script>
 </head>
@@ -28,9 +27,10 @@
         <div class="sm2-timing"></div>
         <div class="sm2-cover"></div>
     </div>
-    <a href="music/Cartoon_Boing.mp3">Boing</a>
-    <a href="music/Cartoon_Cowbell.mp3">Bell</a>
-    <a href="music/Clang_and_wobble.mp3">Wobble</a>
+    <a href="music/Cartoon_Boing.mp3"><button>Boing</button></a>
+    <a href="music/Cartoon_Cowbell.mp3"><button>Bell</button></a>
+    <a href="music/Clang_and_wobble.mp3"><button>Wobble
+        </button></a>
 </div>
 
 </body>
