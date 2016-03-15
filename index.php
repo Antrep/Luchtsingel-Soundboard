@@ -61,7 +61,7 @@
             <a href="music/Pop.mp3" class="myButton">Pop</a>
         </div>
         <div class="col-sm-4" style="text-align: center; margin-top: 5%">
-            <a href="music/Metallic_Twang_High.mp3" class="myButton">Twang #2</a>
+            <a href="music/Metallic_Twang_High.mp3" class="myButton">Wobble</a>
         </div>
         <div class="col-sm-4" style="text-align: center; margin-top: 5%">
             <a href="music/Metallic_Clank.mp3" class="myButton">Clank</a>
