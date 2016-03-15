@@ -9,9 +9,8 @@
      <link rel="stylesheet" href="css/style.css" type="text/css">
     <script type="text/javascript" src="js/main.js"></script>
     <title>Soundboard</title>
-    <script src="script/soundmanager2.js"></script>
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <script type="text/javascript" src="js/360player.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="js/bootstrap.min.js">
     <script type="text/javascript">
         soundManager.setup({
             // path to directory containing SM2 SWF
