@@ -1,3 +1,44 @@
 body{
-    background-image: url("http://www.siwallpaperhd.com/wp-content/uploads/2015/06/colorful_gradient_wallpaper_hd_17_color.jpg") ;
+    background-image: url("http://blog.hdwallsource.com/wp-content/uploads/2014/11/purple-gradient-wallpaper-26053-26738-hd-wallpapers.jpg") ;
+}
+
+.myButton {
+    -moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+    -webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #8b4acc), color-stop(1, #b8a9f5));
+    background:-moz-linear-gradient(top, #8b4acc 5%, #b8a9f5 100%);
+    background:-webkit-linear-gradient(top, #8b4acc 5%, #b8a9f5 100%);
+    background:-o-linear-gradient(top, #8b4acc 5%, #b8a9f5 100%);
+    background:-ms-linear-gradient(top, #8b4acc 5%, #b8a9f5 100%);
+    background:linear-gradient(to bottom, #8b4acc 5%, #b8a9f5 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b4acc', endColorstr='#b8a9f5',GradientType=0);
+    background-color:#8b4acc;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #867fe3;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:25px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px -1px 0px #080b14;
+}
+.myButton:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b8a9f5), color-stop(1, #8b4acc));
+    background:-moz-linear-gradient(top, #b8a9f5 5%, #8b4acc 100%);
+    background:-webkit-linear-gradient(top, #b8a9f5 5%, #8b4acc 100%);
+    background:-o-linear-gradient(top, #b8a9f5 5%, #8b4acc 100%);
+    background:-ms-linear-gradient(top, #b8a9f5 5%, #8b4acc 100%);
+    background:linear-gradient(to bottom, #b8a9f5 5%, #8b4acc 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b8a9f5', endColorstr='#8b4acc',GradientType=0);
+    background-color:#b8a9f5;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
 }
