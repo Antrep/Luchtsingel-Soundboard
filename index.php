@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="js/bootstrap.min.js">
     <script type="text/javascript">
         soundManager.setup({
-            // path to directory containing SM2 SWF
             url: '/swf/'
         });
     </script>
