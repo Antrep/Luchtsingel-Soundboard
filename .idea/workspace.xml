@@ -2,18 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60255a1-506f-4632-b491-bd9c265cab78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoon_Boing.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoon_Cowbell.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoony_Bounce_To_Ceiling.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Clang_and_wobble.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Hair_Ripping.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metal_Twang.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metallic_Clank.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metallic_Twang_High.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Pop.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Tympani_Bing.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Wood_Plank_Flicks.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Woodpecker.mp3" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/download/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/download/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/SoundManager2_AS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/SoundManager2_AS3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/SoundManager2_SMSound_AS3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/docco.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/aller-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/novecento-bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/novecento-bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/fonts/novecento-bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/public/stylesheets/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/generated/soundmanager2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/getstarted/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/resources/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/doc/technotes/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/SoundManager2.as" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/SoundManager2_AS3.as" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/SoundManager2_SMSound_AS3.as" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/make-flash8.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/make-flash8.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/make-flash9.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/src/make-flash9.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/troubleshoot/debug.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/troubleshoot/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/troubleshoot/fpgss-add-location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/troubleshoot/fpgss-added-location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/troubleshoot/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360 button (retina - not playing).psd" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360 button (retina - not playing).psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360 button (retina - playing).psd" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360 button (retina - playing).psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360 button - large.psd" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360 button - large.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360 button.psd" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360 button.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause-2x.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause-light-2x.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause-light-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause-light.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause-light.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause-light.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-pause.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-pause.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play-2x.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play-light-2x.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play-light-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play-light.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play-light.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play-light.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-play.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-play.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-pause-light.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-pause-light.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-pause-light.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-pause-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-pause.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-pause.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-pause.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-pause.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-play-light.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-play-light.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-play-light.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-play-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-play.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-play.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-play.png" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-play.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360player-visualization.css" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360player-visualization.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360player.css" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/360player.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/canvas-visualization-basic.html" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/canvas-visualization-basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/canvas-visualization.html" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/canvas-visualization.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/demo-slider-controls.css" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/demo-slider-controls.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/demo-slider-controls.js" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/demo-slider-controls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/demo.css" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/demo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/icon_loading_dots.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/icon_loading_dots.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/icon_loading_spinner.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/icon_loading_spinner.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/icon_loading_spinner_bigger.gif" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/icon_loading_spinner_bigger.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/index.html" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoon_Boing.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Cartoon_Boing.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoon_Cowbell.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Cartoon_Cowbell.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Cartoony_Bounce_To_Ceiling.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Cartoony_Bounce_To_Ceiling.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Clang_and_wobble.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Clang_and_wobble.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Hair_Ripping.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Hair_Ripping.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metal_Twang.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Metal_Twang.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metallic_Clank.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Metallic_Clank.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Metallic_Twang_High.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Metallic_Twang_High.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Pop.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Pop.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Tympani_Bing.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Tympani_Bing.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Wood_Plank_Flicks.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Wood_Plank_Flicks.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/music/Woodpecker.mp3" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/music/Woodpecker.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/script/360player.js" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/script/360player.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/script/berniecode-animator.js" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/script/berniecode-animator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/script/excanvas.js" afterPath="$PROJECT_DIR$/NoLoad/demo/360-player/script/excanvas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/debug.css" afterPath="$PROJECT_DIR$/NoLoad/demo/debug.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/index-rollup.css" afterPath="$PROJECT_DIR$/NoLoad/demo/index-rollup.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/index-rollup.js" afterPath="$PROJECT_DIR$/NoLoad/demo/index-rollup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/index.css" afterPath="$PROJECT_DIR$/NoLoad/demo/index.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/index.html" afterPath="$PROJECT_DIR$/NoLoad/demo/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/index.js" afterPath="$PROJECT_DIR$/NoLoad/demo/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/license.txt" afterPath="$PROJECT_DIR$/NoLoad/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/script/soundmanager2-jsmin.js" afterPath="$PROJECT_DIR$/NoLoad/script/soundmanager2-jsmin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/script/soundmanager2-nodebug-jsmin.js" afterPath="$PROJECT_DIR$/NoLoad/script/soundmanager2-nodebug-jsmin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/script/soundmanager2-nodebug.js" afterPath="$PROJECT_DIR$/NoLoad/script/soundmanager2-nodebug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/script/soundmanager2.js" afterPath="$PROJECT_DIR$/NoLoad/script/soundmanager2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/swf/soundmanager2.swf" afterPath="$PROJECT_DIR$/NoLoad/swf/soundmanager2.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/swf/soundmanager2_debug.swf" afterPath="$PROJECT_DIR$/NoLoad/swf/soundmanager2_debug.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/swf/soundmanager2_flash9.swf" afterPath="$PROJECT_DIR$/NoLoad/swf/soundmanager2_flash9.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/swf/soundmanager2_flash9_debug.swf" afterPath="$PROJECT_DIR$/NoLoad/swf/soundmanager2_flash9_debug.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/soundmanagerv297a-20150601/swf/soundmanager2_flash_xdomain.zip" afterPath="$PROJECT_DIR$/NoLoad/swf/soundmanager2_flash_xdomain.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Luchtsingel-Soundboard.iws" />
@@ -37,10 +129,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/index.html">
+        <entry file="file://$PROJECT_DIR$/NoLoad/demo/360-player/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09730364">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.38686988">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -59,8 +151,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/NoLoad/index.html" />
-        <option value="$PROJECT_DIR$/NoLoad/demo/360-player/index.html" />
         <option value="$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/index.html" />
+        <option value="$PROJECT_DIR$/NoLoad/demo/360-player/index.html" />
       </list>
     </option>
   </component>
@@ -134,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="soundmanagerv297a-20150601" />
+              <option name="myItemId" value="NoLoad" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -148,7 +240,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="soundmanagerv297a-20150601" />
+              <option name="myItemId" value="NoLoad" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -165,6 +257,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Luchtsingel-Soundboard\NoLoad\demo\360-player" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Luchtsingel-Soundboard\soundmanagerv297a-20150601\demo\360-player" />
       <recent name="C:\xampp\htdocs\Luchtsingel-Soundboard" />
@@ -214,10 +309,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -331,15 +426,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/360-button-vis-play-light.png">
+    <entry file="file://$PROJECT_DIR$/NoLoad/demo/360-player/360-button-vis-play-light.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soundmanagerv297a-20150601/demo/360-player/index.html">
+    <entry file="file://$PROJECT_DIR$/NoLoad/demo/360-player/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09730364">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.38686988">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding />
         </state>
       </provider>
